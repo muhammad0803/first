@@ -103,7 +103,7 @@ bottom: -60px;
     color: white;
     font-weight: 500;
 }
-/* ==================================['/'] */
+/* ======================================['/'] */
 .section2{
     padding-top: 160px;
     padding-bottom: 50px;
@@ -111,4 +111,7 @@ bottom: -60px;
     padding-right: 160px;
     
     
+}
+.section1 nav{
+
 }
